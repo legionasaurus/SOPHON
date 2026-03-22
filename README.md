@@ -2,7 +2,7 @@
 SOPHON: **S**calable, **O**pen, **PH**otobioreactor: **O**xygenation **N**ode.
 (also a Remembrance of Earth's Past reference)
 
-SOPHON is a semi-closed carbon-negative photobioreactor that costs less than **$500** in components. It uses the algae _Arthrospira platensis_. It converts atmospheric carbon into biomass while serving as a classroom STEM teaching tool. The 2 liter cylindrical acrylic tube measures ~3.5” ID x 16” height. It uses ambient air and modified Zarrouk media nutrient source.
+SOPHON is a semi-closed carbon-negative photobioreactor that costs **less than $500** in components. It uses the algae _Arthrospira platensis_. It converts atmospheric carbon into biomass while serving as a classroom STEM teaching tool. The 2 liter cylindrical acrylic tube measures ~3.5” ID x 16” height. It uses ambient air and modified Zarrouk media nutrient source.
 SOPHON takes in nutrients, carbon dioxide, and light. It produces biomass and oxygen in return.
 
 Main Components:
