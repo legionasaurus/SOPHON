@@ -13,6 +13,7 @@ Main Components:
 + Arduino UNO R4 for data collection and control
 + Turbidity Sensor for Algae Growth
 + Reused Car COB light (halo/angel eye) for artificial light growth
+
 Future Additions:
 + pH Sensor for autonomous data collection and regulation of pH
 + Custom zero-carbon media
