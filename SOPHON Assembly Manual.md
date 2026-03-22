@@ -1,7 +1,7 @@
 **How to Build a SOPHON**  
 ---
 
-1. Ensure you have all needed parts. If not, buy and/or print as needed. A parts list is available [here](/BOM/BOM-3-22-26.md).  
+1. Ensure you have all needed parts. If not, buy and/or print as needed. A parts list is available [here](/BOM/BOM-3-22-26.csv).  
 2. Deburr and remove supports on all applicable 3D-printed parts as needed. Ensure no parts are damaged.  
 3. Take the Top Cap. Fit 1 (one) O-Ring onto the notch in the top cap. Ensure the O-Ring is not twisted.   
 4. Install the **right-angle** bulkhead into the **smaller** hole on the Top Cap, ensuring that the side with threads is the one on the underside of the cap. Hand-tighten the nut. Do **not** overtighten.  
