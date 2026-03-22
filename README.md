@@ -22,11 +22,16 @@ Future Additions:
 Rev 1 hardware build in progress. Target inoculation: late April 2026.
 ## Team
 Rakin Molla<sup>1</sup>, Arjun Lakshmanan<sup>1</sup>, Jason Zhang<sup>2</sup>
+
 <sup>1</sup>Hallie Wells Middle School 
+
 <sup>2</sup>Roberto Clemente Middle School
+
 Green Team SOPHON Project
 ## License
+
 **ALL** of SOPHON's hardware is licensed under the [CERN OHL-S v2], while software/firmware is licensed under the [GPL v3].
+
 Thank you to Montgomery County RecXtra's Youth Development Program for funding this project.
 
 
