@@ -30,7 +30,7 @@ Rakin Molla<sup>1</sup>, Arjun Lakshmanan<sup>1</sup>, Jason Zhang<sup>2</sup>
 
 ## License
 
-**ALL** of SOPHON's hardware is licensed under the [CERN OHL-S v2], while software/firmware is licensed under the [GPL v3].
+**ALL** of SOPHON's hardware is licensed under the [CERN OHL-S v2](LICENSE-HARDWARE), while software/firmware is licensed under the [GPL v3](LICENSE-SOFTWARE).
 
 Thank you to Montgomery County RecXtra's Youth Development Program and the Hallie Wells Green Team for funding and supporting this project.
 
