@@ -25,3 +25,4 @@ Important Links (todo allow access to everyone):
   * **Isn’t the algae going to starve of carbon?**  
     * Yes, but that’s the *point*. The entire reason that SOPHON exists is to only use carbon from ambient air to be net carbon-*negative*. Though this isn’t true yet since it’s still powered on-grid and uses dissolved inorganic carbon, those are *cost* issues, not *design* flaws. Better a real proof-of-concept that’s slightly carbon-positive than an ideal carbon-negative bioreactor that doesn’t exist. Also: we bought RECs.    
 * Added further rationale to the BOM for each component\!
+* **TODO: look into non-slip bumpers (tpu or similar) to avoid base slippage**
