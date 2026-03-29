@@ -25,7 +25,6 @@ Important Links (todo allow access to everyone):
 * Went from Arduino Uno R3+ESP32 \-\> Uno R4 to simplify things. It was a clever hack for Rakin the designer, but it made life harder for Rakin+Jason+Arjun the builders. Given that the cost difference when buying a new ESP32 vs an 4 was only 5 dollars, the simplification was welcomed.  
 * Start thinking about PCBs, still have to order the weights (see BOM) so tubing lines don’t float because of their desire to coil up  
 * **Buy media \+ culture ASAP**  
-* TODO: P
 * Quick FAQ guide for our favorite hypothetical ISEF judge: why we did what we did  
   * **Why use *Arthrospira platensis* specifically?**  
     * Grows like a weed, high pH environment reduces competition with bacteria, common and well documented  
@@ -35,3 +34,18 @@ Important Links (todo allow access to everyone):
     * Yes, but that’s the *point*. The entire reason that SOPHON exists is to only use carbon from ambient air to be net carbon-*negative*. Though this isn’t true yet since it’s still powered on-grid and uses dissolved inorganic carbon, those are *cost* issues, not *design* flaws. Better a real proof-of-concept that’s slightly carbon-positive than an ideal carbon-negative bioreactor that doesn’t exist. Also: we bought RECs.    
 * Added further rationale to the BOM for each component\!
 * Create schematic in KiCad
+
+03/29/26 \- Rakin, Arjun, Jason
+* Soldered MOSFET
+* Almost done: just have to do firmware, hook up MOSFET
+* I think of the circuitry as 3 "boxes"
+    * Box 1: Wago Mess
+        * Biggest fish, main 12V line, 5V line, pumps (peristaltic and air), LED light, basically anything that has a significant power draw
+        * Connected to the other boxes through power lines (5V and GND) and motor driver
+    * Box 2: UNO and Co.
+        * Gets power (5V and GND from Box 1)
+        * Microcontrollers, sensors, LCDs, controls, etc
+        * Controls Box 3
+    * Box 3: MOSFET
+        * Controls light (on perfboard)
+        * controlled by UNO and Co., gets power from Wago Mess
