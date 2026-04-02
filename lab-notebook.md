@@ -69,3 +69,20 @@ Important Links (todo allow access to everyone):
     * Box 3: MOSFET
         * Controls light (on perfboard)
         * controlled by UNO and Co., gets power from Wago Mess
+04/01/26 \- Rakin, Arjun, Jason
+* First total test of all of SOPHON's parts _together_
+ * Works well, but still have to figure out cable management + prevent wires from loosening + reduce EMI
+ * Oddly, an air pump seems to both be powered by the system, but also acts as a power _source_ to the Arduino, albeit a very weak one. We're probably getting an ideal diode or Schottky to mitigate this.
+ * I really, really hate wires. I am now trying to learn PCB design as fast as possible so that this demo **stays** a demo.
+* Almost done: just have to do firmware, hook up MOSFET
+* I think of the circuitry as 3 "boxes"
+    * Box 1: Wago Mess
+        * Biggest fish, main 12V line, 5V line, pumps (peristaltic and air), LED light, basically anything that has a significant power draw
+        * Connected to the other boxes through power lines (5V and GND) and motor driver
+    * Box 2: UNO and Co.
+        * Gets power (5V and GND from Box 1)
+        * Microcontrollers, sensors, LCDs, controls, etc
+        * Controls Box 3
+    * Box 3: MOSFET
+        * Controls light (on perfboard)
+        * controlled by UNO and Co., gets power from Wago Mess
