@@ -86,3 +86,6 @@ Important Links (todo allow access to everyone):
     * Box 3: MOSFET
         * Controls light (on perfboard)
         * controlled by UNO and Co., gets power from Wago Mess
+04/02/26 \- Rakin
+* Mainly just repo hygiene, adding CAD files
+* Still have to print + verify distilled water and vessel top cap files
