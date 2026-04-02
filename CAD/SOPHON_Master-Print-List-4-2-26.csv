@@ -1,0 +1,11 @@
+Item,Link,Quantity,Filament,Est. Grams Needed,Print Settings,Purpose,Notes
+SophonBoard Main,Onshape,1,PLA,TODO,,Hold components in place.,"5 top shell, 10% Adaptive Cubic, Brimless"
+Air Pump Bracket,Onshape,1,PLA,TODO,,Hold Air Pump in Place,
+Peristaltic Pump Bracket,Onshape,1,PLA,TODO,,Hold Peristaltic Pump in Place,
+Manifold Bracket,Onshape,1,PLA,TODO,,Hold Manifold in place,
+Top Cap,Onshape,1,PCTG (preferred) or PETG,TODO,,"Prevent contamination in culture, dispense air and liquid ",
+Reagent Bottle Cap,Onshape,2,PLA,TODO,,Add hole for bulkhead,
+Washer,TODO,,,TODO,,,
+3/16th Bulkhead Nut,Onshape,1,PCTG (preferred) or PETG,TODO,,Secure bulkhead,
+Distilled Water Bottle (1L) Cap ,Onshape,2,PLA,TODO,,Add hole for bulkhead,This needs to be redesigned.
+Light/Vessel Bracket,Onshape,1,PLA,TODO,,Mount vessel and light to SophonBoard,
