@@ -89,3 +89,10 @@ Important Links (todo allow access to everyone):
 04/02/26 \- Rakin
 * Mainly just repo hygiene, adding CAD files
 * Still have to print + verify distilled water and vessel top cap files
+04/03/26 \- Rakin
+* Finally turning the corner on the cold
+* Redesigned top cap + distilled water caps; whether the redesigns actually _work_ are TBD 
+* Bought ferrite beads + a bunch of ceramic capacitors in an effort to stop spooky EMI
+* Also moving air pump to a seperate plug to avoid backfeeding into the Arduino
+* Speaking about the 'Duino: tmrw, planning to meet up with Jason (+ maybe Arjun?) to HOT GLUE wires in, maybe transition breadboard to a perf strip (though that makes soldering harder)
+* Also meeting w/ Arjun to do firmware
