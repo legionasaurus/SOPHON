@@ -34,6 +34,9 @@ Important Links (todo allow access to everyone):
     * Yes, but that’s the *point*. The entire reason that SOPHON exists is to only use carbon from ambient air to be net carbon-*negative*. Though this isn’t true yet since it’s still powered on-grid and uses dissolved inorganic carbon, those are *cost* issues, not *design* flaws. Better a real proof-of-concept that’s slightly carbon-positive than an ideal carbon-negative bioreactor that doesn’t exist. Also: we bought RECs.    
 * Added further rationale to the BOM for each component\!
 * Create schematic in KiCad
+
+---
+
 03/28/26 \- Rakin
 * Finally got turbidity sensor working
 * I hate, hate, **HATE** loose wires with a **BURNING PASSION**
@@ -42,7 +45,10 @@ Important Links (todo allow access to everyone):
 * Well, life experience learned
 * Anyway, odd thing to check up on later: adjusting the pulldown resistor value (per the TST-10 schematic) from 4.7 kiloOhms decreases the max voltage.
 * Feeling under the weather, so postponing work
-* Also: chai works wonders for a sore throat. Use honey and ginger for best effect. Not SOPHON, but might save someone later                 
+* Also: chai works wonders for a sore throat. Use honey and ginger for best effect. Not SOPHON, but might save someone later
+
+  ---
+
 03/29/26 \- Rakin, Arjun, Jason
 * Soldered MOSFET
 * Almost done: just have to do firmware, hook up MOSFET
@@ -57,6 +63,8 @@ Important Links (todo allow access to everyone):
     * Box 3: MOSFET
         * Controls light (on perfboard)
         * controlled by UNO and Co., gets power from Wago Mess
+ ---
+
 04/01/26 \- Rakin, Arjun, Jason
 * First total test of all of SOPHON's parts _together_
  * Works well, but still have to figure out cable management + prevent wires from loosening + reduce EMI
@@ -74,9 +82,15 @@ Important Links (todo allow access to everyone):
     * Box 3: MOSFET
         * Controls light (on perfboard)
         * controlled by UNO and Co., gets power from Wago Mess
+
+ ---
+ 
 04/02/26 \- Rakin
 * Mainly just repo hygiene, adding CAD files
 * Still have to print + verify distilled water and vessel top cap files
+
+---
+
 04/03/26 \- Rakin
 * Finally turning the corner on the cold
 * Redesigned top cap + distilled water caps; whether the redesigns actually _work_ are TBD 
