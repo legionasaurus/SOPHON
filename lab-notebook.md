@@ -43,18 +43,6 @@ Important Links (todo allow access to everyone):
 * Anyway, odd thing to check up on later: adjusting the pulldown resistor value (per the TST-10 schematic) from 4.7 kiloOhms decreases the max voltage.
 * Feeling under the weather, so postponing work
 * Also: chai works wonders for a sore throat. Use honey and ginger for best effect. Not SOPHON, but might save someone later                 
-* I think of the circuitry as 3 "boxes"
-    * Box 1: Wago Mess
-        * Biggest fish, main 12V line, 5V line, pumps (peristaltic and air), LED light, basically anything that has a significant power draw
-        * Connected to the other boxes through power lines (5V and GND) and motor driver
-    * Box 2: UNO and Co.
-        * Gets power (5V and GND from Box 1)
-        * Microcontrollers, sensors, LCDs, controls, etc
-        * Controls Box 3
-    * Box 3: MOSFET
-        * Controls light (on perfboard)
-        * controlled by UNO and Co., gets power from Wago Mess
-
 03/29/26 \- Rakin, Arjun, Jason
 * Soldered MOSFET
 * Almost done: just have to do firmware, hook up MOSFET
