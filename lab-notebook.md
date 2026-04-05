@@ -116,3 +116,4 @@ Important Links (todo allow access to everyone):
   * Not doing a whole lot
   * Idea: sterilize harvest using flocculation (NaOH)
   * Harvest 30% on Monday since culture is getting denser on weekends
+  * Really need to take more **PHOTOS**
