@@ -109,3 +109,10 @@ Important Links (todo allow access to everyone):
 * Looks less clean, but hot glue isn't exactly clean either. Could use a really, really tall cap to hide it somewhat.
 * Nervous, feeling time pressure
 * Added dip tubes to all except distilled water
+
+---
+
+04/05/26 \- Rakin
+  * Not doing a whole lot
+  * Idea: sterilize harvest using flocculation (NaOH)
+  * Harvest 30% on Monday since culture is getting denser on weekends
