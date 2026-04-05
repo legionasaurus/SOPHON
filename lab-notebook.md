@@ -117,3 +117,4 @@ Important Links (todo allow access to everyone):
   * Idea: sterilize harvest using flocculation (NaOH)
   * Harvest 30% on Monday since culture is getting denser on weekends
   * Really need to take more **PHOTOS**
+  * Capsule filter: https://www.aliexpress.us/item/3256809638003121.html?gatewayAdapt=glo2usa4itemAdapt
