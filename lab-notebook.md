@@ -106,4 +106,6 @@ Important Links (todo allow access to everyone):
 * SO: breadboard wire mess has to go onto perfboard; I wish Jason the best of luck with _that_!
 * Speaking of imossible tasks, turns out my clever top cap design that has a PTFE membrane clamped by 3D-printed guides isn't so airtight after all. I had to use **HOT GLUE**
 * Transitioning to using a sterile barbed filter and a "stack": bulkhead barb (inside vessel) -> barb (outside vessel) -> short tubing -> barb of filter -> filter membrane -> OUTPUT barb of filter
-* Looks less clean, but hoot glue isn't exactly clean either. Could use a really, really tall cap to hide it somewhat.
+* Looks less clean, but hot glue isn't exactly clean either. Could use a really, really tall cap to hide it somewhat.
+* Nervous, feeling time pressure
+* Added dip tubes to all except distilled water
