@@ -98,3 +98,12 @@ Important Links (todo allow access to everyone):
 * Also moving air pump to a seperate plug to avoid backfeeding into the Arduino
 * Speaking about the 'Duino: tmrw, planning to meet up with Jason (+ maybe Arjun?) to HOT GLUE wires in, maybe transition breadboard to a perf strip (though that makes soldering harder)
 * Also meeting w/ Arjun to do firmware
+
+---
+
+04/04/26 \- Rakin (+ Jason for 1.5 hours)
+* So now it works. The problem is SOPHON is for classrooms. Classrooms with middle schoolers. Middle schoolers who, even with the best intentions, likely won't be as careful with my wires as I will be.
+* SO: breadboard wire mess has to go onto perfboard; I wish Jason the best of luck with _that_!
+* Speaking of imossible tasks, turns out my clever top cap design that has a PTFE membrane clamped by 3D-printed guides isn't so airtight after all. I had to use **HOT GLUE**
+* Transitioning to using a sterile barbed filter and a "stack": bulkhead barb (inside vessel) -> barb (outside vessel) -> short tubing -> barb of filter -> filter membrane -> OUTPUT barb of filter
+* Looks less clean, but hoot glue isn't exactly clean either. Could use a really, really tall cap to hide it somewhat.
