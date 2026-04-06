@@ -122,4 +122,6 @@ Important Links (todo allow access to everyone):
 ---
 
 04/06/26 \- Rakin, Arjun, Jason
-  * Note: in air, the baseline turbidity sensor voltage is 3.14V using a 5.1k pulldown resistor. 
+  * Note: in air, the baseline turbidity sensor voltage is 3.14V using a 5.1k pulldown resistor.
+  * Alright: so proabably buying capsule filter soon, but currently working on outreach/logo (Arjun), case design (Jason) and technical work (me). Probably should get the ideal diodes too if possible.
+  * Making case look sleeker
