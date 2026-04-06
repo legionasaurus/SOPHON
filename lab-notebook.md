@@ -118,5 +118,8 @@ Important Links (todo allow access to everyone):
   * Harvest 30% on Monday since culture is getting denser on weekends
   * Really need to take more **PHOTOS**
   * Capsule filter: https://www.aliexpress.us/item/3256809638003121.html?gatewayAdapt=glo2usa4itemAdapt
+
+---
+
 04/06/26 \- Rakin, Arjun, Jason
   * Note: in air, the baseline turbidity sensor voltage is 3.14V using a 5.1k pulldown resistor. 
