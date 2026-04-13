@@ -125,3 +125,14 @@ Important Links (todo allow access to everyone):
   * Note: in air, the baseline turbidity sensor voltage is 3.14V using a 5.1k pulldown resistor.
   * Alright: so proabably buying capsule filter soon, but currently working on outreach/logo (Arjun), case design (Jason) and technical work (me). Probably should get the ideal diodes too if possible.
   * Making case look sleeker
+04/13/26 \- Rakin, Jason (online)
+  * Sorry for the lack of updates; SciOly has been really busy.
+  * Good news: state comp just ended, so I can do more SOPHON
+  * Working on: the new case, taking inspo from electronic project boxes
+  * Making design into flat panels (think IKEA) instead of box for faster printing + better overhangs
+  * Also makes it modular, key goal of SOPHON
+  * Stops kids from touching too much
+  * Maybe make V2's case (or V1.5 at earlist) out fo sheet metal, the panalizd design is basically begging for it but onshape hates sheet metal so we'll see how it goes
+  * Jason the engineer who did load testing with cardboard (that's really cool btw), me the designer who wants it to look good on CAD in assembly and when finished, and the 3D printer with printer-problems like overhangs are all having a friendly fight
+  * Trying to do the duino r4 firmware while jason does that 
+
