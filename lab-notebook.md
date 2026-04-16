@@ -125,6 +125,9 @@ Important Links (todo allow access to everyone):
   * Note: in air, the baseline turbidity sensor voltage is 3.14V using a 5.1k pulldown resistor.
   * Alright: so proabably buying capsule filter soon, but currently working on outreach/logo (Arjun), case design (Jason) and technical work (me). Probably should get the ideal diodes too if possible.
   * Making case look sleeker
+
+---
+
 04/13/26 \- Rakin, Jason (online)
   * Sorry for the lack of updates; SciOly has been really busy.
   * Good news: state comp just ended, so I can do more SOPHON
@@ -136,3 +139,11 @@ Important Links (todo allow access to everyone):
   * Jason the engineer who did load testing with cardboard (that's really cool btw), me the designer who wants it to look good on CAD in assembly and when finished, and the 3D printer with printer-problems like overhangs are all having a friendly fight
   * Trying to do the duino r4 firmware while jason does that 
 
+---
+
+04/16/26 \- Rakin, Jason (online)
+* Life lifing
+* Did print base partially
+* Nixed the sheet metal idea: too much cost and time
+* Trying to make schmatic
+* Working on firmware wheile Jason handles printing and stuff
