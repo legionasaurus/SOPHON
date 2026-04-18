@@ -147,3 +147,8 @@ Important Links (todo allow access to everyone):
 * Nixed the sheet metal idea: too much cost and time
 * Trying to make schmatic
 * Working on firmware wheile Jason handles printing and stuff
+04/18/26 \- Rakin
+* made significant headway on rudimentary HMI on LCD
+* Still waiting on Arjun for printing
+* Perosnally, I'm trying to mae sure the bottleneck doesn't fall on me.
+* Maybe SOPHON V2 gets a Nextion or a purposebuilt HMI...that is energy-wasteful though.
