@@ -152,3 +152,5 @@ Important Links (todo allow access to everyone):
 * Still waiting on Arjun for printing
 * Perosnally, I'm trying to mae sure the bottleneck doesn't fall on me.
 * Maybe SOPHON V2 gets a Nextion or a purposebuilt HMI...that is energy-wasteful though.
+* Need to code JSON/h-bridge/double-cehck code works.
+* Need to code a website to recieve the POSTs
