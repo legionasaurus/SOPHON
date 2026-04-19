@@ -147,6 +147,9 @@ Important Links (todo allow access to everyone):
 * Nixed the sheet metal idea: too much cost and time
 * Trying to make schmatic
 * Working on firmware wheile Jason handles printing and stuff
+
+---
+
 04/18/26 \- Rakin
 * made significant headway on rudimentary HMI on LCD
 * Still waiting on Arjun for printing
@@ -154,3 +157,10 @@ Important Links (todo allow access to everyone):
 * Maybe SOPHON V2 gets a Nextion or a purposebuilt HMI...that is energy-wasteful though.
 * Need to code JSON/h-bridge/double-cehck code works.
 * Need to code a website to recieve the POSTs
+
+---
+
+04/19/26 \- Rakin, Jason (Online)
+* made even more headway on rudimentary HMI on LCD
+* Redesigned some parts of enclosure for easier printing (reoriented for better layer strength)
+* Maybe not a nextion, maybe an e-ink display or Nextion clone (brand name: DWIN), or maybe a Inkplate or MSPaper
