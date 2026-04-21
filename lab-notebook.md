@@ -165,4 +165,10 @@ Important Links (todo allow access to everyone):
 * Redesigned some parts of enclosure for easier printing (reoriented for better layer strength)
 * Maybe not a nextion, maybe an e-ink display or Nextion clone (brand name: DWIN), or maybe a Inkplate or MSPaper
 * Idea: maybe use  aprefilter on SOPHON V2
- * jeez, i don't wwant to Osborne Effect SOPHON... wait, does that even apply to open-source stuff? I guess I don't want to scope creep. 
+ * jeez, i don't wwant to Osborne Effect SOPHON... wait, does that even apply to open-source stuff? I guess I don't want to scope creep.
+ * Reducing dead volume through software purging
+
+---
+
+04/20/26
+ *Printed 5/6 case parts, getting 6th tmrw
