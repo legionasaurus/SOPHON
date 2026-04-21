@@ -164,11 +164,24 @@ Important Links (todo allow access to everyone):
 * made even more headway on rudimentary HMI on LCD
 * Redesigned some parts of enclosure for easier printing (reoriented for better layer strength)
 * Maybe not a nextion, maybe an e-ink display or Nextion clone (brand name: DWIN), or maybe a Inkplate or MSPaper
-* Idea: maybe use  aprefilter on SOPHON V2
- * jeez, i don't wwant to Osborne Effect SOPHON... wait, does that even apply to open-source stuff? I guess I don't want to scope creep.
- * Reducing dead volume through software purging
+* Idea: maybe use a prefilter on SOPHON V2
+* jeez, i don't wwant to Osborne Effect SOPHON... wait, does that even apply to open-source stuff? I guess I don't want to scope creep.
+* Reducing dead volume through software purging
 
 ---
 
-04/20/26
- *Printed 5/6 case parts, getting 6th tmrw
+04/20/26 - Rakin, Arjun (online), Jason (online)
+* Printed 5/6 case parts, getting 6th tmrw
+* Brief History of SOPHON: before I forget - > 3 main design iterations
+  * **Design 1:** Overpolished Fossil
+    * Oct-Nov '25, tried to integrate everything into 1 tiny, compact unit
+    * Pros: compact, w/o supports
+    * Cons: not modular *at all*, and ultimately a failure and waste of filament + time
+  * **Design 2:** SophonBoard (Currently Published)  
+    * Dec-Feb '26, went in the opposite direction: breadboard-like attachment grid + modules that attached via screws
+    * Pros: super, duper modular: saved lots of filament, rapid testing of different arrangements
+    * Cons: Didn't have space for wiring, lots of sprawl
+  * **Design 3:** Custom Case  
+    * Mar-Present '26, went in a middle direction, still had 1 case like V1 but it was built out of panels like an IKEA flat-pack
+    * Pros: both modular, compact, and looked *great*
+    * Cons: TBD (wish us luck!)
