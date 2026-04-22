@@ -185,3 +185,10 @@ Important Links (todo allow access to everyone):
     * Mar-Present '26, went in a middle direction, still had 1 case like V1 but it was built out of panels like an IKEA flat-pack
     * Pros: both modular, compact, and looked *great*
     * Cons: TBD (wish us luck!)
+
+ ---
+ 04/21/26 - Rakin, Jason (online)
+   * The deadline is nearing, started process for ordering algae and nutrients...
+   * Must work on assembly guide
+   * Finally finished assembly; now we verify and test.
+
