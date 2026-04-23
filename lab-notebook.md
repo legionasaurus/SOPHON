@@ -187,8 +187,19 @@ Important Links (todo allow access to everyone):
     * Cons: TBD (wish us luck!)
 
  ---
+ 
  04/21/26 - Rakin, Jason (online)
    * The deadline is nearing, started process for ordering algae and nutrients...
    * Must work on assembly guide
    * Finally finished assembly; now we verify and test.
 
+---
+
+ 04/22/26 - Rakin
+  * Happy Earth Day!
+  * Also 1-month anniversary of this lab notebook
+  * Anyway...
+  * Maybe use an aquarium sponge as output prefilter? (prevents hydrophobic filter clogging due to high humidity air)
+  * Use pill bottle/250mL wide mouth HDPE to act as a knockout pot, prevent algae from evaporation
+  * ALGAE PRESERVATION: maybe use a dryer to dry the algae PASTE into little "flakes" OR 10% salt
+  * SHORT TERM: allow oxygen exchange to minimize odor, decant/let settle + filter through 35 micorn mesh + squeeze to form paste
