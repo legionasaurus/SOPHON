@@ -20,7 +20,7 @@ Future Additions:
 + Automatic Harvesting via solenoid valves
 + Custom PCB
 ## Status
-Rev 1 hardware build in progress. Target inoculation: late April 2026.
+Rev 1 hardware build in progress. Target inoculation: early May 2026.
 Assembly instructions are forthcoming.
 ## Team
 Rakin Molla<sup>1</sup>, Arjun Lakshmanan<sup>1</sup>, Jason Zhang<sup>2</sup>
