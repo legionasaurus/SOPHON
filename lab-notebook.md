@@ -203,3 +203,19 @@ Important Links (todo allow access to everyone):
   * Use pill bottle/250mL wide mouth HDPE to act as a knockout pot, prevent algae from evaporation
   * ALGAE PRESERVATION: maybe use a dryer to dry the algae PASTE into little "flakes" OR 10% salt
   * SHORT TERM: allow oxygen exchange to minimize odor, decant/let settle + filter through 35 micorn mesh + squeeze to form paste
+
+---
+ 04/25/26 - Rakin, Jason, Arjun
+  * Changing fluid design from 3 (Distilled Water, Nutrients, Harvest) to 4 (Added salts water)
+  * Compensated for dead volume in code
+  * finished state machine code
+  * Wired tubing
+  * Program,spam capacitors and ferrites to banish EMI to the nether realm, and inoculate!!!
+  * TODO:
+    * Calibrate mL/sec for forward, reverse, and slower speed (nonlinear, so 85 duty cycle isn't 1/3rd the speed as 255) (maybe do through a helper sketch?)
+    * prime stuff from tannks to manifold with their respective fluid
+    * Comment Code
+    * PUBLISH Code
+    * Wait 4 days btwn inoculation and first harvest
+    * Handle WiFi and POST request sending in code
+    * Refill distilled water midway through (or switch to 500mL)
