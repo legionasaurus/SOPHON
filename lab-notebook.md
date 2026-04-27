@@ -219,3 +219,14 @@ Important Links (todo allow access to everyone):
     * Wait 4 days btwn inoculation and first harvest
     * Handle WiFi and POST request sending in code
     * Refill distilled water midway through (or switch to 500mL)
+
+---
+
+ 04/26/26 - Rakin
+   * Got the final case design from Jason
+   * Actually tested code - menus finally work!
+   * Hot glued wires in place, ensured nothing broke
+   * TODO
+     * Calibrate Pump (note, prime first!)
+     * Add RC and LC filters to turibidity
+     * Add ceramic caps everywhere
