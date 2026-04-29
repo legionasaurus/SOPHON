@@ -230,3 +230,10 @@ Important Links (todo allow access to everyone):
      * Calibrate Pump (note, prime first!)
      * Add RC and LC filters to turibidity
      * Add ceramic caps everywhere
+
+---
+
+ 04/28/26 - Rakin
+   * **There's no way to sugarcoat this: SOPHON isn't doing too hot**
+   * I'm scared: we tested the pump multiplexing with colored water, and the pump and prmots intermmittently failed
+   * NTP sometimes failed too: shows 12 AM.
