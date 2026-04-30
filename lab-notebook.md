@@ -237,3 +237,9 @@ Important Links (todo allow access to everyone):
    * **There's no way to sugarcoat this: SOPHON isn't doing too hot**
    * I'm scared: we tested the pump multiplexing with colored water, and the pump and prmots intermmittently failed
    * NTP sometimes failed too: shows 12 AM.
+
+---
+
+04/29/26 - Rakin
+  * Alright, I'm outclassed: asked an aquaintance who knows Arduino more than I do
+  * The weird NTP problems wwere fixed, but I think the safety features were too overzealous.
