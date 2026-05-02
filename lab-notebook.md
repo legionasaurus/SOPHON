@@ -243,3 +243,21 @@ Important Links (todo allow access to everyone):
 04/29/26 - Rakin
   * Alright, I'm outclassed: asked an aquaintance who knows Arduino more than I do
   * The weird NTP problems wwere fixed, but I think the safety features were too overzealous.
+
+---
+
+05/01/26 - Rakin
+  * Fixed it myself! Turns out there's this obscure Arduino bug where you cannot use 
+
+  * Anyway, still not all rainbows:
+    * Need to add ferrites+securements so my turbidity sensor isn't a glorified random.org
+    * Glue in arduino pins
+    * Adjust PWM frequency to avoid annoying whine
+    * Test with food coloring (at Jason's house), re-calibrate peristaltic pump (?)
+    * Attach containers to barbs
+    * Glue pump to SophonBoard
+    * Glue LCD and joystick back on, cable management, soldering instead of breadboards NO MATTER WHAT!!!!
+    * Comment code
+  *  Documentation is... lacking
+  *  idea for SOPHON V2: still use SophonBoard, but use slots as makeshift wire holes
+  
