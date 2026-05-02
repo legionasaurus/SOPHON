@@ -247,7 +247,7 @@ Important Links (todo allow access to everyone):
 ---
 
 05/01/26 - Rakin
-  * Fixed it myself! Turns out there's this obscure Arduino bug where you cannot use 
+  * Fixed it myself! Turns out there's this [obscure Arduino bug](https://github.com/arduino/ArduinoCore-renesas/issues/58) where you cannot use analogWrite() and digitalWrite() at the same time
 
   * Anyway, still not all rainbows:
     * Need to add ferrites+securements so my turbidity sensor isn't a glorified random.org
