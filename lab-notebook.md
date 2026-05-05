@@ -267,3 +267,9 @@ Important Links (todo allow access to everyone):
   * 6.05 ml/sec -> 4.6 ml/sec
   * Wait... my manifold is the leak point,, probably needs PTFE
   * Welp.
+
+  * Hi this is Rakin 2 hours later, so it turns out bubbers are not a fact of life after all, resealing with PTFE did a LOT!!!!!
+  * 6.05 was right after all for PWM 160, but interestingly reverse is faster at approx 7.1 ml/sec with watrer (adjusted to 6.75 since algae slurry thicker)
+  * Still have to do a food coloring test, assembly guide, etc.
+  * Poke hole in harvest for aerobic + pressure buildup reasons
+  * 
