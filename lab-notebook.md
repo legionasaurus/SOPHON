@@ -248,7 +248,6 @@ Important Links (todo allow access to everyone):
 
 05/01/26 - Rakin
   * Fixed it myself! Turns out there's this [obscure Arduino bug](https://github.com/arduino/ArduinoCore-renesas/issues/58) where you cannot use analogWrite() and digitalWrite() at the same time
-
   * Anyway, still not all rainbows:
     * Need to add ferrites+securements so my turbidity sensor isn't a glorified random.org
     * Glue in arduino pins
@@ -261,3 +260,10 @@ Important Links (todo allow access to everyone):
   *  Documentation is... lacking
   *  idea for SOPHON V2: still use SophonBoard, but use slots as makeshift wire holes
   
+---
+
+05/04/26 - Rakin
+  *Recalibrating peristaltic pump, bubbles seem to be a fact of life here
+  * 6.05 ml/sec -> 4.6 ml/sec
+  * Wait... my manifold is the leak point,, probably needs PTFE
+  * Welp.
