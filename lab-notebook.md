@@ -274,3 +274,4 @@ Important Links (todo allow access to everyone):
   * Still have to do a food coloring test, assembly guide, etc.
   * Poke hole in harvest for aerobic + pressure buildup reasons
   * Calculate dead volume one alst time, maybe add right angles to stop gravity from priming the liquids too far
+  * Take pics and publish
