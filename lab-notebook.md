@@ -248,6 +248,7 @@ Important Links (todo allow access to everyone):
 
 05/01/26 - Rakin
   * Fixed it myself! Turns out there's this [obscure Arduino bug](https://github.com/arduino/ArduinoCore-renesas/issues/58) where you cannot use analogWrite() and digitalWrite() at the same time
+    * Fix: in applyMotor(), call pinMode([PIN_HERE], OUTPUT) before every digitalWrite() on that pin.
   * Anyway, still not all rainbows:
     * Need to add ferrites+securements so my turbidity sensor isn't a glorified random.org
     * Glue in arduino pins
@@ -268,7 +269,7 @@ Important Links (todo allow access to everyone):
   * Wait... my manifold is the leak point,, probably needs PTFE
   * Welp.
 
-  * Hi this is Rakin 2 hours later, so it turns out bubbers are not a fact of life after all, resealing with PTFE did a LOT!!!!!
+  * Hi this is Rakin 2 hours later, so it turns out bubbles are not a fact of life after all, resealing with PTFE did a LOT!!!!!
   * 6.05 was right after all for PWM 160, but interestingly reverse is faster at approx 7.1 ml/sec with watrer (adjusted to 6.75 since algae slurry thicker)
   * Still have to do a food coloring test, assembly guide, etc.
   * Poke hole in harvest for aerobic + pressure buildup reasons
