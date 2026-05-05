@@ -273,4 +273,4 @@ Important Links (todo allow access to everyone):
   * 6.05 was right after all for PWM 160, but interestingly reverse is faster at approx 7.1 ml/sec with watrer (adjusted to 6.75 since algae slurry thicker)
   * Still have to do a food coloring test, assembly guide, etc.
   * Poke hole in harvest for aerobic + pressure buildup reasons
-  * Calculate dead volume one alst time
+  * Calculate dead volume one alst time, maybe add right angles to stop gravity from priming the liquids too far
