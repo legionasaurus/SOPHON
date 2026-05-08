@@ -275,3 +275,10 @@ Important Links (todo allow access to everyone):
   * Poke hole in harvest for aerobic + pressure buildup reasons
   * Calculate dead volume one alst time, maybe add right angles to stop gravity from priming the liquids too far
   * Take pics and publish
+
+---
+
+05/07/26 - Rakin
+  * Working on firmware
+  * Simulating system on a table since dead volume is a headache (see system-model.md)
+  * Still have to do POST requests, FOOD COLORING TEST (!!)
