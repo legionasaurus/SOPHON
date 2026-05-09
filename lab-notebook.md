@@ -282,3 +282,12 @@ Important Links (todo allow access to everyone):
   * Working on firmware
   * Simulating system on a table since dead volume is a headache (see system-model.md)
   * Still have to do POST requests, FOOD COLORING TEST (!!)
+
+---
+
+05/09/26 - Rakin
+  * I raise my white flag of "science cannot explain this." Actually, it _can_, but I don't have the time to get a PhD in fluid mechanics or whatever
+  * Random bubbles from space, pump calibration not holding BUT
+  * If I try to fix it's that, $50 and 5 weeks MINIMUM.
+  * I'm just going to inoculate. The harvest goes out. The nutrietns go in. Nothing's going to explosively react.
+  * If the algae works, I'm happy.
