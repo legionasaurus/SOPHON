@@ -291,3 +291,9 @@ Important Links (todo allow access to everyone):
   * If I try to fix it's that, $50 and 5 weeks MINIMUM.
   * I'm just going to inoculate. The harvest goes out. The nutrietns go in. Nothing's going to explosively react.
   * If the algae works, I'm happy.
+
+---
+
+05/10/26 - Rakin
+  * Colored water worked!
+  *Now just logistics...
