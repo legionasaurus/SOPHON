@@ -307,7 +307,7 @@ Important Links (todo allow access to everyone):
     * Crisis the Third: Wisdom and Pericornitis
       * Frankly this is a bit of my perosnal life, but I'm going insane and you deserve to know about it. I'm so wise that I have not four, but _six_ wisdom teeth, including one that's infected. SOPHON is hard when you can't chew.
     * Crisis the Fourth: Fake RTC
-      * The Amazon DS1302 modules I got were fake. They drift worse that the R4's RTC. Using NTP for the expo, but this really needs a swapout _before_ classroom inoculation.
+      * The Amazon DS3231 modules I got were fake. They drift worse that the R4's RTC. Using NTP for the expo, but this really needs a swapout _before_ classroom inoculation.
     * Crisis the Fifth: Silicone Shenaigans
       * I spent an hours of my life and 24 hours of curing time for RTV adhesive that didn't even work. It just... detached like it was tape. Switching to a better sensor.
     * THUS, because of 5 literal Diabli Ex Machina, I've postponed inoculated to mid june (this means no classrooms :( ) but at least the Green Team leader will see I did _something_
