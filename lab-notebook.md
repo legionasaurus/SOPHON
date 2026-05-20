@@ -297,3 +297,19 @@ Important Links (todo allow access to everyone):
 05/10/26 - Rakin
   * Colored water worked!
   *Now just logistics...
+05/19/26 - Rakin
+  * I'm getting "Now just logistics..." engraved on my tombstone.
+  * There are multiple crises happening at once,funnily enough
+    * Crisis the First: Mildewy Bottles
+      * Turns out I didn't clean the reagent bottles from the colored water test thoroughly enough... that's getting a hit of hydrogen peroxide right after the STEAM Expo
+    * Crisis the Second:  State Testing
+      * Nuff said.
+    * Crisis the Third: Wisdom and Pericornitis
+      * Frankly this is a bit of my perosnal life, but I'm going insane and you deserve to know about it. I'm so wise that I have not four, but _six_ wisdom teeth, including one that's infected. SOPHON is hard when you can't chew.
+    * Crisis the Fourth: Fake RTC
+      * The Amazon DS1302 modules I got were fake. They drift worse that the R4's RTC. Using NTP for the expo, but this really needs a swapout _before_ classroom inoculation.
+    * Crisis the Fifth: Silicone Shenaigans
+      * I spent an hours of my life and 24 hours of curing time for RTV adhesive that didn't even work. It just... detached like it was tape. Switching to a better sensor.
+    * THUS, because of 5 literal Diabli Ex Machina, I've postponed inoculated to mid june (this means no classrooms :( ) but at least the Green Team leader will see I did _something_
+    * Honestly, the algae is both the most annoying and least interesting part. It grows. That's it. The O-rings, multiplexing, and engineering _around_ the algae was the best part, and the part I'll demo at the STEAM Expo.
+    * By the way, Steam Expo is Thursday, May 21st, 2026.
