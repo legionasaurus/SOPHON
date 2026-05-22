@@ -313,3 +313,5 @@ Important Links (todo allow access to everyone):
     * THUS, because of 5 literal Diabli Ex Machina, I've postponed inoculated to mid june (this means no classrooms :( ) but at least the Green Team leader will see I did _something_
     * Honestly, the algae is both the most annoying and least interesting part. It grows. That's it. The O-rings, multiplexing, and engineering _around_ the algae was the best part, and the part I'll demo at the STEAM Expo.
     * By the way, Steam Expo is Thursday, May 21st, 2026.
+05/21/26 - Rakin, Arjun, Jason
+  * WILL DO TOMORROW, tired!
