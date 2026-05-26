@@ -319,3 +319,4 @@ Important Links (todo allow access to everyone):
   * use a really short one for output air, like a chamber that forces spirulina droplets to condense becuase they hit the hydrophobic capsule filter, use aquairum sponge for that
   * Use a logner (200ml) PC resevoir as a flow cell, like a sampling pump cosntnatly runs culture in and out of the 200ml reseovir, and sensors read the status of the resevoir during that time.
   * Shift scope of V1.5 from classroom to home, ditch the LCD and joystick, and use a WEB DASHBOARD, it's mroe fragile but I'm going to be there anyway so what does it matter?
+  * Also: yesderday I cleaned and sanitized (with hdyrogen peroxide) the bottles to get rid of mold/mildew. Still have to get rid of tap water minerals via soaking in citric acid (aquairum tuibng brush?)and rinsing siwll dsitilled water.
