@@ -313,5 +313,9 @@ Important Links (todo allow access to everyone):
     * THUS, because of 5 literal Diabli Ex Machina, I've postponed inoculated to mid june (this means no classrooms :( ) but at least the Green Team leader will see I did _something_
     * Honestly, the algae is both the most annoying and least interesting part. It grows. That's it. The O-rings, multiplexing, and engineering _around_ the algae was the best part, and the part I'll demo at the STEAM Expo.
     * By the way, Steam Expo is Thursday, May 21st, 2026.
-05/21/26 - Rakin, Arjun, Jason
-  * WILL DO TOMORROW, tired!
+05/26/26 - Rakin
+  * Use PC water cooling resevoir that 50mm OD and G 1/4" prots, they already make temp sensors, and we could insert pH sensors through those ports
+  * DFrobot makes a turb sensor that reads THROUGH the vessel wall
+  * use a really short one for output air, like a chamber that forces spirulina droplets to condense becuase they hit the hydrophobic capsule filter, use aquairum sponge for that
+  * Use a logner (200ml) PC resevoir as a flow cell, like a sampling pump cosntnatly runs culture in and out of the 200ml reseovir, and sensors read the status of the resevoir during that time.
+  * Shift scope of V1.5 from classroom to home, ditch the LCD and joystick, and use a WEB DASHBOARD, it's mroe fragile but I'm going to be there anyway so what does it matter?
