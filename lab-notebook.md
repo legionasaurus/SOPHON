@@ -313,6 +313,9 @@ Important Links (todo allow access to everyone):
     * THUS, because of 5 literal Diabli Ex Machina, I've postponed inoculated to mid june (this means no classrooms :( ) but at least the Green Team leader will see I did _something_
     * Honestly, the algae is both the most annoying and least interesting part. It grows. That's it. The O-rings, multiplexing, and engineering _around_ the algae was the best part, and the part I'll demo at the STEAM Expo.
     * By the way, Steam Expo is Thursday, May 21st, 2026.
+
+   ---
+   
 05/26/26 - Rakin
   * Use PC water cooling resevoir that 50mm OD and G 1/4" prots, they already make temp sensors, and we could insert pH sensors through those ports
   * DFrobot makes a turb sensor that reads THROUGH the vessel wall
@@ -320,3 +323,10 @@ Important Links (todo allow access to everyone):
   * Use a logner (200ml) PC resevoir as a flow cell, like a sampling pump cosntnatly runs culture in and out of the 200ml reseovir, and sensors read the status of the resevoir during that time.
   * Shift scope of V1.5 from classroom to home, ditch the LCD and joystick, and use a WEB DASHBOARD, it's mroe fragile but I'm going to be there anyway so what does it matter?
   * Also: yesderday I cleaned and sanitized (with hdyrogen peroxide) the bottles to get rid of mold/mildew. Still have to get rid of tap water minerals via soaking in citric acid (aquairum tuibng brush?)and rinsing siwll dsitilled water.
+
+---
+
+06/02/26 - Rakin
+  * Making a really big decision; using WiFi monitor, CUTTING OUT LCD + joystick + turbidiy sensor, because I spent 805 of my time on just those 3. Instead, planning to use an elecrow in the future (LVGL beats LCD anyway)
+  * Focusing on GETTING IN ALGAE and ROCK SOLID STABILITY, official scope freeze
+  * Will be taking breaks for mental health purposes, moving V1.5 to a PCB
