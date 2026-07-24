@@ -330,3 +330,8 @@ Important Links (todo allow access to everyone):
   * Making a really big decision; using WiFi monitor, CUTTING OUT LCD + joystick + turbidiy sensor, because I spent 805 of my time on just those 3. Instead, planning to use an elecrow in the future (LVGL beats LCD anyway)
   * Focusing on GETTING IN ALGAE and ROCK SOLID STABILITY, official scope freeze
   * Will be taking breaks for mental health purposes, moving V1.5 to a PCB
+---
+
+07/24/26 - Rakin
+  * Good news: back for some ideating in reduced form
+  * Bad News: cutting the manifold idea. It was elegant and only needed 1 pump, but the contamination and flushing and system modeling was a mess. Elegant design, frankly miserable reality. Planning to buy 3 cheapo (or 3dprint) low-flow peristaltics andjust accept 3 more holes as the price of not having a messy system model. ALSO: this version is autonomousfor free. No more clamp/unclamping.
