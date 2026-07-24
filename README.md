@@ -2,12 +2,12 @@
 SOPHON: **S**calable, **O**pen, **PH**otobioreactor: **O**xygenation **N**ode.
 (also a Remembrance of Earth's Past reference)
 
-SOPHON is a semi-closed carbon-negative photobioreactor that costs **less than $500** in components. It uses the algae _Arthrospira platensis_. It converts atmospheric carbon into biomass while serving as a classroom STEM teaching tool. The 2 liter cylindrical acrylic tube measures ~3.5” ID x 16” height. It uses ambient air and modified Zarrouk media nutrient source.
+SOPHON is a semi-closed photobioreactor that costs **less than $500** in components. It uses the algae _Arthrospira platensis_. It converts atmospheric carbon into biomass while serving as a classroom STEM teaching tool. The 2 liter cylindrical acrylic tube measures ~3.5” ID x 16” height. It uses ambient air and modified Zarrouk media nutrient source.
 SOPHON takes in nutrients, carbon dioxide, and light. It produces biomass and oxygen in return.
 
 Main Components:
 + Air Pump (around 5L/min)
-+ Peristaltic Pumps (1 high-flow foralgae harvest; 3 low-flow for inputs like nutrients)
++ Peristaltic Pumps (planned: 1 high-flow for algae harvest; 3 low-flow for inputs like nutrients)
 + Acrylic Vessel
 + Arduino UNO R4 for data collection and control
 + Reused Car COB light (halo/angel eye) for artificial light growth
@@ -17,7 +17,7 @@ Future Additions:
 + Custom zero-carbon media
 + Automatic Harvesting via solenoid valves
 + Custom PCB
-## Status
+## Status as of 2026-07-24
 Rev 1 is assembled and has **never been** inoculated. All testing to date has used water and food coloring; **no culture** has been grown in this device. Here be dragons, EMI, and faulty wiring. 
 What works: full-system power, dosing state machine, colored-water transfer through all four lines, pump calibration.
 Known-bad: pump calibration drifts, intermittent bubbles in the multiplexed path, EMI on sensor lines, counterfeit DS3231 modules (using NTP instead).
