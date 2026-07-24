@@ -7,11 +7,9 @@ SOPHON takes in nutrients, carbon dioxide, and light. It produces biomass and ox
 
 Main Components:
 + Air Pump (around 5L/min)
-+ Peristaltic Pump Multiplexing
++ Peristaltic Pumps (1 high-flow foralgae harvest; 3 low-flow for inputs like nutrients)
 + Acrylic Vessel
-+ PP Manifold
 + Arduino UNO R4 for data collection and control
-+ Turbidity Sensor for Algae Growth
 + Reused Car COB light (halo/angel eye) for artificial light growth
 
 Future Additions:
@@ -20,8 +18,13 @@ Future Additions:
 + Automatic Harvesting via solenoid valves
 + Custom PCB
 ## Status
-Rev 1 hardware build in progress. Target inoculation: TBD.
-Assembly instructions are forthcoming.
+Rev 1 is assembled and has **never been** inoculated. All testing to date has used water and food coloring; **no culture** has been grown in this device. Here be dragons, EMI, and faulty wiring. 
+What works: full-system power, dosing state machine, colored-water transfer through all four lines, pump calibration.
+Known-bad: pump calibration drifts, intermittent bubbles in the multiplexed path, EMI on sensor lines, counterfeit DS3231 modules (using NTP instead).
+Cut on 2026-06-02 (scope freeze): LCD, joystick, turbidity sensor.
+Under revision: fluid handling is being redesigned from one-motor multiplexing to independent pumps — the shared wetted path risks harvest contaminating the input lines, and concentrated nutrients precipitate on contact with the salt feed.
+Carbon accounting: SOPHON is not currently carbon-negative. It runs on grid power and uses dissolved inorganic carbon. See the notebook entry of 2026-03-22 for the reasoning.
+Active development is paused. No timeline. The repo stays up and the license stands; fork it if you want to build one. You can create issues if you have any questions; I check this repo often.
 ## Team
 Rakin Molla<sup>1</sup>, Arjun Lakshmanan<sup>1</sup>, Jason Zhang<sup>2</sup>
 
